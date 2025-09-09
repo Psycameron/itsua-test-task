@@ -1,1 +1,0 @@
-# itsua-test-task
